@@ -1,6 +1,11 @@
 #include<iostream>
 using namespace std;
 int main() {
-    cout << "Hello, Harsh" << endl;
-    return 0;
+char grade;
+cout<<"enter your grade :"<<endl;
+cin>>grade;
+int value = grade;
+cout<<(int)grade<<endl;
+cout<<grade;
+return 0;
 }
