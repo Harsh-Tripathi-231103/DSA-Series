@@ -1,6 +1,6 @@
 # first way of reversing an array
 arr = [1, 4, 3, 2]
-rev = arr[::-1]
+rev = arr[::-1]  # slicing
 print(rev)   # [2, 3, 4, 1]
 
 # second way of reversing an array
